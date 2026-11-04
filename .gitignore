@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# local data, downloaded by src/evaluate_real.py
+data/ewt/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# streamlit local secrets
+.streamlit/secrets.toml
