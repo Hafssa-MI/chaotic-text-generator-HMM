@@ -1,10 +1,12 @@
 # Chaotic Text Generator
+Auteur : Hafssa Miftah Idrissi
 
+---
 Banc d'essai de générateurs de texte, réalisé pour le Lab 03 du module NLP (M2 SDIA, ENSET Mohammedia).
 
 L'application génère des phrases avec un modèle de Markov caché (HMM) ou un modèle trigramme, affiche la séquence d'étiquettes cachées derrière chaque phrase, mesure la qualité d'un lot avec quatre métriques, et étiquette n'importe quelle phrase saisie avec l'algorithme de Viterbi.
 
-**Application publique :** à compléter
+**Application publique :** https://chaotic-text-generator-hmm.streamlit.app/
 **Avertissement :** le corpus est synthétique et la grammaire minuscule. Les métriques comme le patron d'étiquettes valide sont définies relativement à ce corpus et ne mesurent pas la qualité de l'anglais réel.
 
 ## Fonctionnalités
